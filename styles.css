@@ -1,0 +1,59 @@
+
+body {
+	font-family: Arial, sans-serif;
+	color: #1B1E85;
+	margin: 0px;
+	background-color: #FDFDFD;
+	z-index:5000;
+    width: 600px;
+    border-left: 5px solid #023E47;
+    border-right: 5px solid #023E47;
+    border-top: 5px solid #023E47;
+    border-bottom: 5px solid #023E47;
+}
+
+
+
+#perfecto {
+	background: #1B1E85;
+	text-align: center;
+	padding: 0 5px;
+	line-height: 25px;
+    color: #fff;
+}
+
+/* Style the search field */
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  width: 450px;
+  background: #f1f1f1;
+}
+
+/* Style the submit button */
+form.example button {
+  width: 100px;
+  padding: 5px;
+  background: #c9a22f;
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #CECE07;
+}
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.hrefx1 {
+    padding-bottom: 2px;
+    font-size: 15px;
+}
+
+
